@@ -1,9 +1,6 @@
-
 node_modules/
 /name.file
-/lib/name.file
 /log.file
 /hidden.file
-bower_components
 *.log
 candy/
